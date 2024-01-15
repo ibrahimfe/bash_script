@@ -1,0 +1,14 @@
+# Nmap 7.93 scan initiated Mon Jan 15 20:08:15 2024 as: nmap -sT -p 3306 -oG MySQLscan 192.168.0.0/24
+Host: 192.168.0.1 (_gateway)	Status: Up
+Host: 192.168.0.1 (_gateway)	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.0.101 ()	Status: Up
+Host: 192.168.0.101 ()	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.0.102 ()	Status: Up
+Host: 192.168.0.102 ()	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.0.103 ()	Status: Up
+Host: 192.168.0.103 ()	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.0.104 ()	Status: Up
+Host: 192.168.0.104 ()	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.0.106 (fedora)	Status: Up
+Host: 192.168.0.106 (fedora)	Ports: 3306/open/tcp//mysql///
+# Nmap done at Mon Jan 15 20:08:28 2024 -- 256 IP addresses (6 hosts up) scanned in 13.12 seconds

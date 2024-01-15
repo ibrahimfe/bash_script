@@ -1,0 +1,7 @@
+#! /bin/bash
+
+# This is my first bash script, wish me luck
+
+echo "Hello, World"
+echo "This is your journey to become ethical hacker"
+echo "Stay positive!!"

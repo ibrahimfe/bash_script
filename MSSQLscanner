@@ -1,0 +1,16 @@
+# Nmap 7.93 scan initiated Mon Jan 15 20:17:18 2024 as: nmap -sT -p 1433 -oG MSSQLscan 192.168.0.0/24
+Host: 192.168.0.1 (_gateway)	Status: Up
+Host: 192.168.0.1 (_gateway)	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.101 ()	Status: Up
+Host: 192.168.0.101 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.102 ()	Status: Up
+Host: 192.168.0.102 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.103 ()	Status: Up
+Host: 192.168.0.103 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.104 ()	Status: Up
+Host: 192.168.0.104 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.105 ()	Status: Up
+Host: 192.168.0.105 ()	Ports: 1433/closed/tcp//ms-sql-s///
+Host: 192.168.0.106 (fedora)	Status: Up
+Host: 192.168.0.106 (fedora)	Ports: 1433/closed/tcp//ms-sql-s///
+# Nmap done at Mon Jan 15 20:17:22 2024 -- 256 IP addresses (7 hosts up) scanned in 3.61 seconds

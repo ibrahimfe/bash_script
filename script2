@@ -1,0 +1,15 @@
+#! /bin/bash
+
+# This is the second bash script.
+# prompt the user for input, place it in a variable
+# display the variable content in a string
+
+echo "What is your name?"
+
+read name
+
+echo "What are your favorite books?"
+
+read books
+
+echo "Welcome" $name ", and" $books "are your favorite books!"
